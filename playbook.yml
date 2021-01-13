@@ -9,6 +9,7 @@
     galaxy_server_dir: /galaxy/server
     galaxy_virtualenv_command: /usr/bin/python3 -m virtualenv
     galaxy_virtualenv_python: python3
+    galaxy_commit_id: dev
     pip_extra_args: "--no-cache-dir --compile"
     galaxy_manage_database: false
     galaxy_manage_clone: true
